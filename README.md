@@ -16,7 +16,7 @@ If you are interested in contributing to the development of FarmData2 see the [C
 
 ### Connecting ###
 
-Connect with the [FarmData2 community on Zulip](https://farmdata2.zulipchat.com/).
+Connect with the [FarmData2 community on Zulip](https://farmdata2.zulipchat.com/) to join the discussion.
 
 If you are unfamiliar with [Zulip](https://zulip.com/) it is a group chat application that blends the benefits of threaded discussions with live chat. Zulip is relatively easy to use once you understand the key ideas of [streams and topics](https://zulip.com/help/about-streams-and-topics).
 
